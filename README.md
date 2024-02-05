@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML/DL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Just3nzo](https://github.com/Just3nzo)
+- 👨‍💻 Some of my projects are available at [https://github.com/Just3nzo?tab=repositories](https://github.com/Just3nzo?tab=repositories)
 
 - 📫 How to reach me **justinas@klevinskas.lt**
 
