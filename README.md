@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Science enthusiast from Lithuania</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*Owa2rsDG6Rwv1IM_RdsL3A.gif">
 
-- 🔭 I’m currently working on **expanding my knowledge in Data Science and Computer Science fields in general**
+- 🔭 I’m currently working on **expanding my knowledge in Data Science and Computer Science field in general**
 
 - 🌱 I’m currently learning **ML/DL**
 
